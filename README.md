@@ -1,4 +1,4 @@
 wiki
 ====
 
-Cool information of sorts!
+Click the wiki link on the sidebar to access the index page.
